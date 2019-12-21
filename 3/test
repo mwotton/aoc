@@ -1,0 +1,1 @@
+clear; dropdb aoc3; createdb aoc3; psql aoc3 -f solve.sql < input.text
